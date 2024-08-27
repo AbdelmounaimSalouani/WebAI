@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WebAI/static/css/main.79c274bd.css",
+    "main.js": "/WebAI/static/js/main.c0f21b4e.js",
+    "index.html": "/WebAI/index.html",
+    "main.79c274bd.css.map": "/WebAI/static/css/main.79c274bd.css.map",
+    "main.c0f21b4e.js.map": "/WebAI/static/js/main.c0f21b4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79c274bd.css",
+    "static/js/main.c0f21b4e.js"
+  ]
+}
