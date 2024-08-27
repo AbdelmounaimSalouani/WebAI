@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/AbdelmounaimSalouani/WebAI/static/css/main.79c274bd.css",
-    "main.js": "/AbdelmounaimSalouani/WebAI/static/js/main.c0f21b4e.js",
-    "index.html": "/AbdelmounaimSalouani/WebAI/index.html",
-    "main.79c274bd.css.map": "/AbdelmounaimSalouani/WebAI/static/css/main.79c274bd.css.map",
-    "main.c0f21b4e.js.map": "/AbdelmounaimSalouani/WebAI/static/js/main.c0f21b4e.js.map"
+    "main.css": "/WebAI/static/css/main.79c274bd.css",
+    "main.js": "/WebAI/static/js/main.c0f21b4e.js",
+    "index.html": "/WebAI/index.html",
+    "main.79c274bd.css.map": "/WebAI/static/css/main.79c274bd.css.map",
+    "main.c0f21b4e.js.map": "/WebAI/static/js/main.c0f21b4e.js.map"
   },
   "entrypoints": [
     "static/css/main.79c274bd.css",
